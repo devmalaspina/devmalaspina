@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.webp" alt="Estudante de IA — Aprendendo a transformar dados em ideias" width="100%" />
+  <img src="assets/banner.gif" alt="Estudante de IA — Aprendendo a transformar dados em ideias" width="100%" />
 </p>
 
 ## Hi there 👋
