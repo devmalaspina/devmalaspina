@@ -39,3 +39,11 @@
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devmalaspina&bg_color=000000&color=FFFFFF&line=FF2D2D&point=FFFFFF&area=true&area_color=FF2D2D&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es" alt="Gráfico de contribuições" />
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devmalaspina/devmalaspina/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devmalaspina/devmalaspina/output/github-snake.svg" />
+    <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/devmalaspina/devmalaspina/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</p>
