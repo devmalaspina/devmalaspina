@@ -26,7 +26,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" title="Jupyter" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" title="NumPy" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" title="Pandas" />
+<img src="https://cdn.simpleicons.org/pandas/FFFFFF" height="40" alt="Pandas" title="Pandas" />
 
 <br clear="right" />
 
