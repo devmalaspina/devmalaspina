@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1500&color=FF2D2D&center=true&vCenter=true&width=600&lines=%E2%8A%B9+Bem-vindo+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99" alt="Bem-vindo ao meu perfil!" />
-</p>
+
 
 <p align="center">
   <img src="assets/banner.gif" alt="Antônio Malaspina — Estudante de IA" width="100%" />
