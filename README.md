@@ -20,6 +20,8 @@
 
 <a href="mailto:antoniomendonca5000@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FF2D2D" alt="Email" /></a>
 <a href="https://github.com/devmalaspina"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FF2D2D" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/ant%C3%B4nio-malaspina-502a04264/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMSIgeT0iMSIgd2lkdGg9IjIyIiBoZWlnaHQ9IjIyIiByeD0iMyIgZmlsbD0iI0ZGMkQyRCIvPjxjaXJjbGUgY3g9IjciIGN5PSI2LjYiIHI9IjEuOSIgZmlsbD0iIzAwMCIvPjxyZWN0IHg9IjUuMyIgeT0iOS42IiB3aWR0aD0iMy40IiBoZWlnaHQ9IjkuNiIgZmlsbD0iIzAwMCIvPjxyZWN0IHg9IjEwLjQiIHk9IjkuNiIgd2lkdGg9IjMuMyIgaGVpZ2h0PSI5LjYiIGZpbGw9IiMwMDAiLz48cGF0aCBkPSJNMTMuNyAxMi4yQzE0LjMgMTAuOCAxNS42IDkuNCAxNy42IDkuNEMyMC4yIDkuNCAyMC45IDExLjEgMjAuOSAxMy41VjE5LjJIMTcuNlYxNC4zQzE3LjYgMTMuMSAxNy4zIDEyLjIgMTYuMSAxMi4yQzE0LjggMTIuMiAxMy43IDEzLjEgMTMuNyAxNC41WiIgZmlsbD0iIzAwMCIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/antonio.malaspiina/"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=FF2D2D" alt="Instagram" /></a>
 
 ### Minha Stack ~
 
